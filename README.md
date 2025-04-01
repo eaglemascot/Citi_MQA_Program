@@ -14,21 +14,21 @@ This portfolio showcases quantitative finance simulations and modeling work comp
 ## 📈 Coffee Futures Pricing & Option Valuation  
 Used the Cost-of-Carry model to price coffee futures and evaluated options using the Black-Scholes model and Monte Carlo simulation.  
 **Tools**: Python, Black-Scholes, Monte Carlo, Cost-of-Carry, Market Factor Analysis  
-📄 [`Coffee_Futures_Pricing.pdf`](./Ecem Yildirim - Fair Price of Coffee Futures Contract Analysis.pdf)
+📄 [`Coffee_Futures_Pricing.pdf`](./Coffee_Futures_Pricing.pdf)
 
 ---
 
 ## 🛡️ Risk Management Strategy Development  
 Developed risk mitigation strategies using long futures, call options, CDS, PFE modeling, and operational safeguards such as trade automation and compliance systems.  
 **Tools**: CDS, PFE Modeling, Scenario Planning, Operational Risk Frameworks  
-📄 [`Risk_Management_Analysis.pdf`](./Ecem Yildirim - Risk Management Analysis.pdf)
+📄 [`Risk_Management_Analysis.pdf`](./Risk_Management_Analysis.pdf)
 
 ---
 
 ## 🏦 Structured Security Design  
 Designed a commodity-linked bond for conservative investors, integrating fixed income components with exposure to coffee price movements.  
 **Tools**: Bond Pricing Models, Sensitivity Metrics, Monte Carlo Forecasting, Investor Profiling  
-📄 [`Structured_Securities_Proposal.pdf`](./Ecem Yildirim - Structured Securities Proposal and Risk Mitigation Report.pdf)
+📄 [`Structured_Securities_Proposal.pdf`](./Structured_Securities_Proposal.pdf)
 
 ---
 
